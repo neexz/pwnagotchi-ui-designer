@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\pwnagotchi\pwnagotchi\bin\Debug\pwnagotchi.exe.config
+C:\Users\user\source\repos\pwnagotchi\pwnagotchi\bin\Debug\pwnagotchi.exe
+C:\Users\user\source\repos\pwnagotchi\pwnagotchi\bin\Debug\pwnagotchi.pdb
+C:\Users\user\source\repos\pwnagotchi\pwnagotchi\obj\Debug\pwnagotchi.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\pwnagotchi\pwnagotchi\obj\Debug\pwnagotchi.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\pwnagotchi\pwnagotchi\obj\Debug\pwnagotchi.Form1.resources
+C:\Users\user\source\repos\pwnagotchi\pwnagotchi\obj\Debug\pwnagotchi.Properties.Resources.resources
+C:\Users\user\source\repos\pwnagotchi\pwnagotchi\obj\Debug\pwnagotchi.csproj.GenerateResource.cache
+C:\Users\user\source\repos\pwnagotchi\pwnagotchi\obj\Debug\pwnagotchi.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\pwnagotchi\pwnagotchi\obj\Debug\pwnagotchi.exe
+C:\Users\user\source\repos\pwnagotchi\pwnagotchi\obj\Debug\pwnagotchi.pdb
